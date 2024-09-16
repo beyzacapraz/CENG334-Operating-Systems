@@ -1,2 +1,2 @@
 # CENG334-Operating-Systems
-By the end of the course, I learned fundemantal concepts, organization, components, and basic algorithms of operating systems.
+Introduction to Operating Systems. Memory Management. Process Management. Concurrent Processes. Deadlocks. Processor Management. I/O and Device Management. File Management and File Systems. Introduction to Distributed Operating Systems. Synchronization in Distributed Systems. Distributed File Systems. Overview of contemporary OS technology.
